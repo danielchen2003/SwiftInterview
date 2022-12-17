@@ -1,21 +1,5 @@
 import Foundation
 
-//func get
-//
-//for i in apartments {
-//    array.append(sortedArr.price)
-//}
-//
-//for apartment in apartments {
-//    array.append(apartment.price)
-//}
-//
-//
-//for apartment in apartments {
-//    array.append(apartment.price)
-//}
-
-
 struct Apartment {
 
     var address: String
